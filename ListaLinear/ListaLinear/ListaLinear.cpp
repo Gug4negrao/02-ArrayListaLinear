@@ -102,7 +102,6 @@ void inserirElemento()
 
 }
 
-// deve ser implementada como resposta ao exercicio
 void buscarElemento()
 {
 	int elemento;
